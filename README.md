@@ -107,3 +107,9 @@ The program then displays Ramy's inbox, opens the first email, deletes it, and d
 ## Note
 
 This is a beginner-level learning project. Emails are stored in memory while the program is running. The project does not use a database, a graphical interface, or a real email delivery service.
+
+## Screenshot
+
+Here is a demonstration of the Email Management System:
+
+![Email Management System Demo](screenshots/email-system-demo.png)
